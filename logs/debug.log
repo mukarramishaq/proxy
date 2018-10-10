@@ -1,77 +1,12 @@
-[2018-10-09 06:10:07] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:28] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:28] [/var/www/html/proxy/index.php] [27] OPTIONS
-[2018-10-09 06:10:29] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:29] [/var/www/html/proxy/index.php] [27] GET
-[2018-10-09 06:10:29] [/var/www/html/proxy/proxy.php] [89] http://localhost/sugarpro792full/rest/v10/Accounts
-[2018-10-09 06:10:42] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:42] [/var/www/html/proxy/index.php] [27] OPTIONS
-[2018-10-09 06:10:42] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:42] [/var/www/html/proxy/index.php] [27] GET
-[2018-10-09 06:10:42] [/var/www/html/proxy/proxy.php] [89] http://localhost/sugarpro792full/rest/v10/Accounts
-[2018-10-09 06:10:08] [/var/www/html/proxy/log.php] [10] http://localhost:4200
-[2018-10-09 06:10:08] [/var/www/html/proxy/index.php] [27] OPTIONS
-[2018-10-09 06:10:08] [/var/www/html/proxy/log.php] [10] http://localhost:4200
-[2018-10-09 06:10:08] [/var/www/html/proxy/index.php] [27] GET
-[2018-10-09 06:10:08] [/var/www/html/proxy/proxy.php] [89] http://localhost/sugarpro792full/rest/v10/Accounts
-[2018-10-09 06:10:38] [/var/www/html/proxy/log.php] [10] http://localhost:4200
-[2018-10-09 06:10:38] [/var/www/html/proxy/index.php] [27] OPTIONS
-[2018-10-09 06:10:38] [/var/www/html/proxy/log.php] [10] http://localhost:4200
-[2018-10-09 06:10:38] [/var/www/html/proxy/index.php] [27] GET
-[2018-10-09 06:10:38] [/var/www/html/proxy/proxy.php] [89] http://localhost/sugarpro792full/rest/v10/Accounts
-[2018-10-09 06:10:39] [/var/www/html/proxy/log.php] [10] http://localhost:4200
-[2018-10-09 06:10:39] [/var/www/html/proxy/index.php] [27] OPTIONS
-[2018-10-09 06:10:39] [/var/www/html/proxy/log.php] [10] http://localhost:4200
-[2018-10-09 06:10:39] [/var/www/html/proxy/index.php] [27] GET
-[2018-10-09 06:10:39] [/var/www/html/proxy/proxy.php] [89] http://localhost/sugarpro792full/rest/v10/Accounts
-[2018-10-09 06:10:58] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:58] [/var/www/html/proxy/index.php] [27] OPTIONS
-[2018-10-09 06:10:58] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:58] [/var/www/html/proxy/index.php] [27] GET
-[2018-10-09 06:10:58] [/var/www/html/proxy/proxy.php] [89] http://localhost/sugarpro792full/rest/v10/Accounts
-[2018-10-09 06:10:15] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:15] [/var/www/html/proxy/index.php] [27] OPTIONS
-[2018-10-09 06:10:15] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:15] [/var/www/html/proxy/index.php] [27] DELETE
-[2018-10-09 06:10:15] [/var/www/html/proxy/proxy.php] [89] http://localhost/sugarpro792full/rest/v10/Accounts/3bc03dfa-c55d-11e8-8104-6cc217ea273c
-[2018-10-09 06:10:22] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:22] [/var/www/html/proxy/index.php] [27] OPTIONS
-[2018-10-09 06:10:22] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:22] [/var/www/html/proxy/index.php] [27] GET
-[2018-10-09 06:10:22] [/var/www/html/proxy/proxy.php] [89] http://localhost/sugarpro792full/rest/v10/Accounts
-[2018-10-09 06:10:38] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:38] [/var/www/html/proxy/index.php] [27] OPTIONS
-[2018-10-09 06:10:38] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:38] [/var/www/html/proxy/index.php] [27] GET
-[2018-10-09 06:10:38] [/var/www/html/proxy/proxy.php] [89] http://localhost/sugarpro792full/rest/v10/Accounts
-[2018-10-09 06:10:48] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:48] [/var/www/html/proxy/index.php] [27] OPTIONS
-[2018-10-09 06:10:48] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:48] [/var/www/html/proxy/index.php] [27] POST
-[2018-10-09 06:10:48] [/var/www/html/proxy/proxy.php] [89] http://localhost/sugarpro792full/rest/v10/Accounts
-[2018-10-09 06:10:48] [/var/www/html/proxy/proxy.php] [41] Array
+[2018-10-10 02:10:18] [/var/www/html/proxy/log.php] [10] chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+[2018-10-10 02:10:18] [/var/www/html/proxy/index.php] [27] POST
+[2018-10-10 02:10:18] [/var/www/html/proxy/proxy.php] [98] http://localhost/sugarpro792full/rest/v10/oauth2/token
+[2018-10-10 02:10:18] [/var/www/html/proxy/proxy.php] [46] Array
 (
-    [name] => DD Furniture Inc500000
-    [email1] => kid.hr@example.biz
+    [grant_type] => password
+    [username] => admin
+    [password] => 123456
+    [client_id] => sugar
+    [platform] => chchch
 )
 
-[2018-10-09 06:10:55] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:55] [/var/www/html/proxy/index.php] [27] OPTIONS
-[2018-10-09 06:10:55] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:55] [/var/www/html/proxy/index.php] [27] GET
-[2018-10-09 06:10:55] [/var/www/html/proxy/proxy.php] [89] http://localhost/sugarpro792full/rest/v10/Accounts
-[2018-10-09 06:10:28] [/var/www/html/proxy/log.php] [10] http://localhost:4200
-[2018-10-09 06:10:28] [/var/www/html/proxy/index.php] [27] OPTIONS
-[2018-10-09 06:10:28] [/var/www/html/proxy/log.php] [10] http://localhost:4200
-[2018-10-09 06:10:28] [/var/www/html/proxy/index.php] [27] GET
-[2018-10-09 06:10:28] [/var/www/html/proxy/proxy.php] [89] http://localhost/sugarpro792full/rest/v10/Accounts
-[2018-10-09 06:10:34] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:34] [/var/www/html/proxy/index.php] [27] OPTIONS
-[2018-10-09 06:10:34] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:34] [/var/www/html/proxy/index.php] [27] GET
-[2018-10-09 06:10:34] [/var/www/html/proxy/proxy.php] [89] http://localhost/sugarpro792full/rest/v10/Accounts
-[2018-10-09 06:10:38] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:38] [/var/www/html/proxy/index.php] [27] OPTIONS
-[2018-10-09 06:10:38] [/var/www/html/proxy/log.php] [10] chrome-extension://elchdfmfdjjfdmjagfkiecafgppckdmh
-[2018-10-09 06:10:38] [/var/www/html/proxy/index.php] [27] GET
-[2018-10-09 06:10:38] [/var/www/html/proxy/proxy.php] [89] http://localhost/sugarpro792full/rest/v10/Accounts

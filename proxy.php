@@ -36,8 +36,13 @@ Class Proxy
     public function handlePOST()
     {
         $this->preprocess();
-        //$fields = $_REQUEST;
-        $fields = json_decode(file_get_contents('php://input'), true);
+        
+        $fields = [];
+        if (getallheaders()['Content-Type'] != 'application/json') {
+            $fields = $_REQUEST;
+        } else {
+            $fields = json_decode(file_get_contents("php://input"),true);
+        }
         \Core\Log::debug($fields, __FILE__, __LINE__);
         
         //$fields = $fields_string;
@@ -57,7 +62,11 @@ Class Proxy
     {
         $this->preprocess();
         $fields = [];
-        $fields = json_decode(file_get_contents("php://input"),true);
+        if (getallheaders()['Content-Type'] != 'application/json') {
+            $fields = $_REQUEST;
+        } else {
+            $fields = json_decode(file_get_contents("php://input"),true);
+        }
         \Core\Log::debug($fields, __FILE__, __LINE__);
         //$fields = $fields_string;
         $fields = json_encode($fields);
