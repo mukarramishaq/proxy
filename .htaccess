@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule \.(css|js|png|jpg|gif)$ - [L]
+RewriteRule ^([a-zA-Z0-9\-\_\/]*)$ index.php [NC,L]
